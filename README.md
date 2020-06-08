@@ -1,4 +1,4 @@
-# LGBTQIA+ Pride in GitHub Repository Languages
+# LGBTQIAP+ Pride in GitHub Repository Languages
 
 Just in case github changes any of the colours,
 this is what it's supposed to look like:
@@ -14,3 +14,4 @@ This repository has inspired various other pride flags ❤
 - https://github.com/TartanLlama/non-binary
 - https://github.com/issyl0/pan
 - https://github.com/mattbischoff/bisexual
+- https://github.com/larien/pan
